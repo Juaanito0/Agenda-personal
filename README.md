@@ -23,4 +23,8 @@ Forma parte de mi proceso de aprendizaje en desarrollo web y backend, integrando
 ## ⚙️ Instalación y uso
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/Agenda-personal.git
+   git clone https://github.com/Juaanito0/Agenda-personal.git
+2. Accede a la carperta
+    cd Agenda-personal
+3. Ejecuta el programa
+    python agenda.py
